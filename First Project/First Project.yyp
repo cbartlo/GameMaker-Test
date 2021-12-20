@@ -1,12 +1,15 @@
 {
   "resources": [
-    {"id":{"name":"sPlayer6","path":"sprites/sPlayer6/sPlayer6.yy",},"order":5,},
+    {"id":{"name":"oGun","path":"objects/oGun/oGun.yy",},"order":2,},
+    {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":3,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":15,},
+    {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},"order":4,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":2,},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
+    {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},"order":3,},
+    {"id":{"name":"sGun","path":"sprites/sGun/sGun.yy",},"order":5,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
+    {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},"order":6,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -49,7 +52,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.603",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "First Project",
